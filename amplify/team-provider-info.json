@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-fixerweb-dev-162904-authRole",
+            "UnauthRoleArn": "arn:aws:iam::352647721412:role/amplify-fixerweb-dev-162904-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::352647721412:role/amplify-fixerweb-dev-162904-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-fixerweb-dev-162904-deployment",
+            "UnauthRoleName": "amplify-fixerweb-dev-162904-unauthRole",
+            "StackName": "amplify-fixerweb-dev-162904",
+            "StackId": "arn:aws:cloudformation:eu-west-1:352647721412:stack/amplify-fixerweb-dev-162904/6499de40-13a1-11eb-902e-0249940be826",
+            "AmplifyAppId": "dxz9qq0a7495x"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dxz9qq0a7495x",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
